@@ -4,10 +4,11 @@
 - scikit-learn
 - request
 - pycryptodome
+- python 3.11
 
 
 
-Title: AI Data Poisoning Challenge
+# Title: AI Data Poisoning Challenge
 
 Description: In this Python-based Capture The Flag (CTF) challenge, participants will be required to perform a data poisoning attack on a machine learning model to compromise its performance.
 
